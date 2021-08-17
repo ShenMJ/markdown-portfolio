@@ -1,4 +1,4 @@
--This
--IS
- -an
- -example!
+- This
+- IS
+ - an
+ - example!
